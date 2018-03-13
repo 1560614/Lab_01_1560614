@@ -2,9 +2,9 @@
 ## Mã số sinh viên: 1560614 
 ## Họ tên: Trần Quốc Trí  
 ## Lớp: 15CK3
-## Email: 1560678@student.hcmus.edu.vn  
+## Email: tritran4869@gmail.com  
 ## Điện thoại: 01672446415  
-## Link facebook cá nhân: facebook.com/house.719
+## Facebook cá nhân: https://www.facebook.com/profile.php?id=100010135515856
 ## Thời khóa biểu:
 | Giờ BĐ - Giờ KT 	| Tiết 	| Thứ 2                  	| Thứ 3                                 	| Thứ 4                               	| Thứ 5                  	| Thứ 6                             	| Thứ 7                                             	|
 |-----------------	|------	|------------------------	|---------------------------------------	|-------------------------------------	|------------------------	|-----------------------------------	|---------------------------------------------------	|
